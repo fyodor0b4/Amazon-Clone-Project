@@ -7,7 +7,7 @@ Developed clone of Amazon website with HTML and CSS
 
 
 # Screenshot
-![](images/amaazonss.PNG)
+![](images/amazonss.PNG)
 
 
 # GIF
